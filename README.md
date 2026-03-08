@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahmoud+Zaki;CS+Student;Backend+.NET+Developer;Learning+Every+Day+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Mahmoud+Zaki;Computer+Science+Student;Backend+.NET+Developer;Learning+Every+Day+🚀" />
 
 </div>
 
@@ -9,14 +9,14 @@
 # 👨‍💻 About Me
 
 🎓 Computer Science Student (3rd Year)  
-💻 Learning **Backend Development with .NET**  
+💻 Currently learning **Backend Development with .NET**  
 🧠 Practicing **Problem Solving & Algorithms**  
 🗄️ Interested in **Databases & System Design**  
-🚀 Always improving programming skills  
+🚀 Always trying to improve my programming skills  
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ Languages & Technologies
 
 <p align="left">
 
@@ -60,13 +60,9 @@
 
 ---
 
-# 🐍 GitHub Snake 🐍
+# 🧠 Problem Solving
 
-<div align="center">
-
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+I enjoy solving programming problems and improving my logical thinking through coding practice.
 
 ---
 
